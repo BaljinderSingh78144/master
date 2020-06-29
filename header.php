@@ -63,6 +63,11 @@ extract($_REQUEST);
 			  <i class="fas fa-fw fa-tachometer-alt"></i>
 			  <span>Dashboard</span></a>
 		  </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="newexam.php">
+            <i class="fas fa-pen-square"></i>
+            <span>New exam</span></a>
+          </li>
 
 <hr class="sidebar-divider my-0">
 	<!-- Nav Item - Home  Menu -->

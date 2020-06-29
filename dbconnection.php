@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname="power_house_db";
+$dbname="examdb";
 try {
 
 
