@@ -610,6 +610,8 @@ $(document).ready(function(){
 							<hr>
 							<br>
 						</div>
+
+
 						<div class="col-md-12">
 							<h4>
 								Anonymize exam
